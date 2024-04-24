@@ -1,0 +1,439 @@
+.sc-AxjAm.sc-qQxXP.fuTEF.mx-4 {
+    
+    height: 600px;
+    
+}
+
+
+label {
+    display: block;
+
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+.seconddiv{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    -webkit-box-align: initial;
+    align-items: initial;
+   
+    width: 90%;
+    height: 60%;
+
+}
+
+.firstdiv{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 auto;
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    align-content: center;
+    -webkit-box-align: initial;
+    align-items: initial;
+    min-height: 0px;
+    min-width: 0px;
+    max-width: 90%;
+    max-height: 60%;
+   
+}
+
+@media (max-width: 768px) {
+    /* Your responsive styles for screens 768px or less */
+    .seconddiv{
+        --reach-accordion: 1;
+        font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+        -webkit-font-smoothing: antialiased;
+        box-sizing: border-box;
+        min-height: 0px;
+        min-width: 0px;
+        
+        -webkit-box-pack: initial;
+        justify-content: initial;
+        -webkit-box-align: initial;
+        align-items: initial;
+       
+        width: 100%;
+        height: 80%;
+    
+    }
+    
+    .firstdiv{
+        --reach-accordion: 1;
+        font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+        -webkit-font-smoothing: antialiased;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+        flex: 1 1 auto;
+        -webkit-box-pack: initial;
+        justify-content: initial;
+        align-content: center;
+        -webkit-box-align: initial;
+        align-items: initial;
+        min-height: 0px;
+        min-width: 0px;
+        max-width: 100%;
+        max-height: 80%;
+       
+    }
+}
+
+
+.chartbox2 {
+    width: 700px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.fyNUoA{
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    -webkit-box-pack: initial;
+    align-content: center;
+    text-align: center;
+  
+    margin-top: 10px;
+    width: 100%;
+
+}
+
+/* /////////////yes/ */
+.bZFaTa{
+   
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: row wrap;
+    flex: 1 1 auto;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: initial;
+    align-items: initial;
+    min-height: 0px;
+    min-width: 0px;
+    width: 100%;
+    height: 100%;
+
+}
+
+/* ///////////yes///////// */
+.fcRxvB{
+    
+    box-sizing: border-box;
+    padding:0px;
+    min-height: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    -webkit-box-align: initial;
+    align-items: initial;
+    flex: 0 0 48%;
+    height: 310px;
+    margin-bottom: 85px;
+}
+
+/* ///////////ys//////////// */
+.imVUDT{
+   
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    align-content: center;
+     text-align: center;
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    -webkit-box-align: initial;
+    align-items: initial;
+}
+/* ////////////yes///////// */
+.krvuUX{
+   
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 auto;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    color: rgb(71, 71, 71);
+}
+/* ///////////yes/////////// */
+.jXrfzm{
+   
+    color: rgb(71, 71, 71);
+    box-sizing: border-box;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 300ms ease 0s;
+}
+
+/* ///////////yes/////////// */
+
+.eopTOK{
+
+    
+    box-sizing: border-box;
+    margin-top: 16px;
+    min-height: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 auto;
+    align-content: center;
+     text-align: center;
+    max-width: 60%;
+    position: relative;
+    cursor: pointer;
+
+}
+.hoNYTm{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    -webkit-box-align: initial;
+    align-items: initial;
+    margin-top: 32px;
+}
+
+
+/* //////////////yes///////// */
+.fJZwvt{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 auto;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: initial;
+    align-items: initial;
+}
+
+
+
+/* /////////////yes///////// */
+.kpOYNK{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    max-width:100%;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    -webkit-box-align: initial;
+    align-items: initial;
+}
+/* /////////yes////// */
+.cfNXah{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    color: rgb(71, 71, 71);
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px;
+}
+/* /////////yes////// */
+
+.glGfvP{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+
+    min-height: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: row;
+    flex: 0 0 auto;
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 4px;
+}
+.kAtaTQ{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: row;
+    flex: 0 0 auto;
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    -webkit-box-align: initial;
+    align-items: initial;
+}
+
+
+
+
+svg{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    cursor: pointer;
+    width: 565;
+    height: 223;
+    box-sizing: border-box;
+
+    
+}
+
+
+
+
+
+/* /////yes////// */
+
+.bfvxEY{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 auto;
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    align-content: center;
+    -webkit-box-align: initial;
+    align-items: initial;
+    min-height: 0px;
+    min-width: 0px;
+    max-width: 70%;
+    max-height: 60%;
+   
+}
+/* //////////yes///////// */
+.feZGb{
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    -webkit-box-align: initial;
+    align-items: initial;
+   
+    width: 80%;
+    height: 60%;
+
+}
+
+
+/* ////////////yes/// */
+.bENBoG{
+
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 auto;
+    -webkit-box-pack: initial;
+    justify-content: initial;
+    -webkit-box-align: initial;
+    align-items: initial;
+    margin-left: 16px;
+    width: 80%;
+    height: 60%;
+
+}
+
+
+/* ////////////yes///////// */
+.fuTEF{
+
+    --reach-accordion: 1;
+    font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    min-height: 0px;
+    min-width: 0px;
+    flex-direction: row;
+    flex: 1 1 auto;
+    
+    align-items: initial;
+    width: 80%;
+    cursor: pointer;
+    margin-top: 5px;
+    height: 50%;
+
+}
+
+#chartBox_p{
+    width:100%;
+    height: 60%;
+}
+
+
+#myChart_p{
+    width:80%;
+    height: 60%;
+
+}
+
+
+#myChart4{
+    width:100%;
+
+}
+#myChart3{
+    width:100%;
+    height: 100%;
+
+}

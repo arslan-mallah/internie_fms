@@ -1,0 +1,10 @@
+[20-Jun-2023 02:29:41 America/New_York] PHP Warning:  require(/home/efainopp/blockstacktech.com/fms/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/efainopp/blockstacktech.com/fms/index.php on line 34
+[20-Jun-2023 02:29:41 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/efainopp/blockstacktech.com/fms/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/efainopp/blockstacktech.com/fms/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/efainopp/blockstacktech.com/fms/index.php on line 34
+[20-Jun-2023 02:29:53 America/New_York] PHP Warning:  require(/home/efainopp/blockstacktech.com/fms/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/efainopp/blockstacktech.com/fms/index.php on line 34
+[20-Jun-2023 02:29:53 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/efainopp/blockstacktech.com/fms/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/efainopp/blockstacktech.com/fms/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/efainopp/blockstacktech.com/fms/index.php on line 34
